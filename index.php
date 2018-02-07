@@ -21,7 +21,7 @@ background-color:pink;
 <div>
 <h1><b>Educational Attainment</b></h1>
 </div>
-<p><h5><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name of School:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.Y.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Honors Received:</b></h5></p>
+<p><h5><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name of School:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A.Y.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Honors Received:</b></h5></p>
 <p><h5>Pit-os Elementary School&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4th Honorable Mention</h5></p>
 <p><h5>Pit-os National High School&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st Honorable Mention</h5></p>
 <p><h5>Cebu Technological University</h5></p>
@@ -34,7 +34,7 @@ background-color:pink;
 <p><h5>&nbsp;&nbsp;&nbsp;&nbsp;I had a daughter at an early age of 17. Luckily my family took it easily and understand the situation.</h5></p>
 <p><h5>My mother decided to let me live with my boyfriend for she has nothing she can do to make things right. So Jufiel's family let us live in their old house.</h5></p>
 <p><h5>The house isn't big nor small, just enough for a small family which is normally composed of a maximum of 3 children. During the first month of stay, everything seemed normal.</h5></p>
-<p><h5>It felt like we really are bound but then things seemed to go wrong, misunderstandings and problems started building such wall that love alone cannot conquer.</h5>/p>
+<p><h5>It felt like we really are bound but then things seemed to go wrong, misunderstandings and problems started building such wall that love alone cannot conquer.</h5></p>
 <p><h5>Trust had become the downfall of our relationship. So I decided to ask my parents to raise my child while I pursue my studies. My mother agreed to it, but when classes is fast approaching,</h5></p>
 <p><h5>Jufiel decided to show. At first, I didn't plan to reconcile but when I saw how my daughter longed for her father. It took all my courage to push him away from us.</h5></p>
 <p><h5>Classes started, instead of continuing the course i had taken which is Bachelor of Technical Teaching Education (BTTE). I decided to take another course, Bachelor of Science in Information and Communication Technology.</h5></p>
